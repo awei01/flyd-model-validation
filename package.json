@@ -1,7 +1,7 @@
 {
-  "name": "module-starter",
-  "version": "0.0.1",
-  "description": "Template for module development using webpack, karma and babel",
+  "name": "flyd-validation",
+  "version": "0.0.0",
+  "description": "Validate javascript data models using flyd streams",
   "main": "dist/index.min.js",
   "scripts": {
     "clean": "node ./scripts/clean.js",
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:awei01/module-starter.git"
+    "url": "git@github.com:awei01/flyd-validation.git"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
