@@ -1,5 +1,5 @@
 {
-  "name": "flyd-validation",
+  "name": "flyd-model-validation",
   "version": "0.0.0",
   "description": "Validate javascript data models using flyd streams",
   "main": "dist/index.min.js",
@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:awei01/flyd-validation.git"
+    "url": "git@github.com:awei01/flyd-model-validation.git"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
